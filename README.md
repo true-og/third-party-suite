@@ -5,8 +5,6 @@ The following plugins are missing an open source license:
 
 - AdvancedRegionMarket
 
-- Afkpluspapi
-
-- Custom Images
+- BountyHunters
 
 TrueOG is working on replacing them, or pushing the adoption of licenses. In the meanwhile, use those with caution.
